@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "265456139011",
+
+    "firebase_url": "https://tipsscorepro-2fcbd.firebaseio.com",
+    "project_id": "tipsscorepro-2fcbd",
+    "storage_bucket": "tipsscorepro-2fcbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265456139011:android:d693a6feb4b7596c",
+        "android_client_info": {
+          "package_name": "com.tipsscorepro.kim.navdesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265456139011-357s4i19dk8lseq12jh5sfs0dchim2mp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADP8FQ2LW-i5F9zzNXXlDYWWcGgCn7WWs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-6945892941084575~3061196009"
+    }
+  ],
+  "configuration_version": "1"
+}
